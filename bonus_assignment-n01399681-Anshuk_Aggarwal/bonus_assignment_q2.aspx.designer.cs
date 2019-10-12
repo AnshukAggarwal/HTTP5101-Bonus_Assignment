@@ -11,7 +11,7 @@ namespace bonus_assignment_n01399681_Anshuk_Aggarwal
 {
 
 
-    public partial class bonus_assigment_q1
+    public partial class bonus_assignment_q2
     {
 
         /// <summary>
@@ -24,22 +24,13 @@ namespace bonus_assignment_n01399681_Anshuk_Aggarwal
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// x_coordinate control.
+        /// user_schedule control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox x_coordinate;
-
-        /// <summary>
-        /// y_coordinate control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox y_coordinate;
+        protected global::System.Web.UI.WebControls.CheckBoxList user_schedule;
 
         /// <summary>
         /// confirmbox control.

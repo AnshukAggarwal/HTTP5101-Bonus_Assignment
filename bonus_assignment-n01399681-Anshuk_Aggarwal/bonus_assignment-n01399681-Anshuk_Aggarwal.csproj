@@ -107,6 +107,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="bonus_assigment_q1.aspx" />
+    <Content Include="bonus_assignment_q2.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -176,6 +177,13 @@
     </Compile>
     <Compile Include="bonus_assigment_q1.aspx.designer.cs">
       <DependentUpon>bonus_assigment_q1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bonus_assignment_q2.aspx.cs">
+      <DependentUpon>bonus_assignment_q2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bonus_assignment_q2.aspx.designer.cs">
+      <DependentUpon>bonus_assignment_q2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
